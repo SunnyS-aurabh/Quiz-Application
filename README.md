@@ -71,8 +71,7 @@ Steps to Run
 
 Clone this repository:
 
-git clone https://github.com/your-username/quiz-application.git
-cd quiz-application
+git clone https://github.com/SunnyS-aurabh/Quiz-Application.git
 
 Run questions.py to generate the questions.txt file:
 
@@ -133,9 +132,6 @@ If questions.txt is missing, the application displays an error message: Error: T
 
 If any file operation fails, an error message is displayed with details.
 
-License
-
-This project is open-source and available under the MIT License.
 
 Contribution
 
